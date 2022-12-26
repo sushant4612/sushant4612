@@ -1,4 +1,4 @@
-![logo](https://github.com/sushant4612/sushant4612/blob/main/pngtree-technological-sense-geometric-line-simple-image_19419.jpg)
+![logo](https://github.com/sushant4612/sushant4612/blob/main/pngtree-computer-code-technology-advertising-image_165748.jpg)
 <h1 align="center">Hi 👋, I'm Sushant</h1>
 <h3 align="center">A Passionate Learner From India</h3>
 
