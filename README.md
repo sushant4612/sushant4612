@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML, CSS and DSA**
 
-- 📫 How to reach me **sushant14@gmail.com**
+- 📫 How to reach me **sushantsp14@gmail.com**
 
 - ⚡ Fun fact **I love Anime**
 
