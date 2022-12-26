@@ -4,7 +4,7 @@
 
 <hr>
 
-<img align = "right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ScentedFamiliarDuiker-max-1mb.gif">
+<img align = "right" alt="Coding" width="400" src="http://31.media.tumblr.com/tumblr_m75wijfxKF1r6mc3xo1_500.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant4612&label=Profile%20views&color=0e75b6&style=flat" alt="sushant4612" /> </p>
 
