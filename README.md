@@ -36,7 +36,7 @@
 
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushant4612&show_icons=true&locale=en" alt="sushant4612" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sushant4612&show_icons=true&locale=en" alt="sushant4612" /></p>
 
 <hr>
 
