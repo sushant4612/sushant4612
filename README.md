@@ -1,4 +1,4 @@
-<!-- ![logo](https://github.com/sushant4612/sushant4612/blob/main/pngtree-computer-code-technology-advertising-image_165748.jpg) -->
+![logo](https://github.com/sushant4612/sushant4612/blob/main/Simple%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sushant</h1>
 <h3 align="center">DEVOPS || DEVLOPMENT || DSA</h3>
 
