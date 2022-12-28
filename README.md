@@ -4,7 +4,7 @@
 
 <hr>
 
-<img align = "right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/11/programming.gif">
+<img align = "right" alt="Coding" width="400" src="https://i.kym-cdn.com/photos/images/original/001/190/093/e7f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant4612&label=Profile%20views&color=0e75b6&style=flat" alt="sushant4612" /> </p>
 
