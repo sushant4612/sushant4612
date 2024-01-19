@@ -8,13 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant4612&label=Profile%20views&color=0e75b6&style=flat" alt="sushant4612" /> </p>
 
-- 🌱 I’m currently learning **DSA and Frontend development**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **HTML, CSS and DSA**
+- 💬 Ask me about **Frontend Devlopment**
 
 - 📫 How to reach me **sushantsp14@gmail.com**
-
-- ⚡ Fun fact **I love Anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
