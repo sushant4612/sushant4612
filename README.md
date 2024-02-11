@@ -1,6 +1,5 @@
 # 💫 About Me:
 ### Hey, I'm Sushant 👋
-
 I started my coding journey in my first year of college. Before that, I didn't have much idea about coding. I began with C language, learning its basic syntax and all. Later, I shifted to Java for Data Structures and Algorithms (DSA). 🚀 During this learning process, I discovered a lot of things, but what really piqued my interest are web development and DevOps. 💻⚙️ Currently, I'm learning both simultaneously and enjoying the journey!
 
 ## 🌐 Socials:
