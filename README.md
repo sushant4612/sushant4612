@@ -2,7 +2,6 @@
 ### Hey, I'm Sushant 👋
 I started my coding journey in my first year of college. Before that, I didn't have much idea about coding. I began with C language, learning its basic syntax and all. Later, I shifted to Java for Data Structures and Algorithms (DSA). 🚀 During this learning process, I discovered a lot of things, but what really piqued my interest are web development and DevOps. 💻⚙️ Currently, I'm learning both simultaneously and enjoying the journey!
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sushant-pathare-941160234) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sushant_pathare) [![hashnode](https://img.shields.io/badge/hashnode-blue.svg?logo=hashnode&logoColor=white)](https://hashnode.com/@sushant4612)
 
